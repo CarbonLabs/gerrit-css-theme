@@ -203,7 +203,7 @@ button {
 }
 .gerritTopMenu .linkMenuBar {
 	display: inline-block;
-	margin-top: 8px;
+	margin-top: 4px;
 }
 .gerritTopMenu .searchPanel .searchTextBox {
 	margin-top: 0 !important;
@@ -592,15 +592,13 @@ button {
 }
 .com-google-gerrit-client-change-ChangeScreen_BinderImpl_GenCss_style-infoTable > tbody > tr .com-google-gerrit-client-change-ChangeScreen_BinderImpl_GenCss_style-commitColumn {
 	float: left;
-	width: calc(100% - 712px);
 }
 .com-google-gerrit-client-change-ChangeScreen_BinderImpl_GenCss_style-infoTable > tbody > tr .com-google-gerrit-client-change-ChangeScreen_BinderImpl_GenCss_style-infoColumn {
 	float: right;
 }
 .com-google-gerrit-client-change-ChangeScreen_BinderImpl_GenCss_style-infoTable > tbody > tr .com-google-gerrit-client-change-ChangeScreen_BinderImpl_GenCss_style-relatedColumn {
 	float: left;
-	width: 370px;
-	margin-top: 110px;
+	width: 30%;
 	position: relative;
 }
 .com-google-gerrit-client-change-ChangeScreen_BinderImpl_GenCss_style-infoTable > tbody > tr .com-google-gerrit-client-change-ChangeScreen_BinderImpl_GenCss_style-relatedColumn .gwt-TabPanelBottom {
