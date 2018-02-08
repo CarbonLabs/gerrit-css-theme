@@ -162,7 +162,6 @@ button {
 	.gerritTopMenu .topmenuMenuRight .searchPanel {
 		display: block;
 		position: relative;
-		top: 39px;
 	}
 	.gerritTopMenu .topmenuMenuRight .linkMenuBar {
 		display: block;
@@ -1092,7 +1091,7 @@ button.com-google-gerrit-client-change-Reviewers_BinderImpl_GenCss_style-openAdd
 	.menuBarUserNamePanel {
 		position: absolute;
 		right: 0;
-		top: 22px;
+		top: 35px;
 	}
 	.screenHeader {
 		display: block;
