@@ -166,7 +166,6 @@ button {
 	.gerritTopMenu .topmenuMenuRight .linkMenuBar {
 		display: block;
 		position: relative;
-		top: -33px;
 	}
 }
 @media (max-width: 1200px) {
