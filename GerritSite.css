@@ -369,7 +369,7 @@ button {
 	line-height: 1.3 !important;
 }
 .gerritBody .screen table table td {
-	padding: 5px 10px;
+	padding: 5px 0;
 	line-height: 1;
 }
 .gerritBody .screen .gwt-Button {
@@ -598,7 +598,7 @@ button {
 }
 .com-google-gerrit-client-change-ChangeScreen_BinderImpl_GenCss_style-infoTable > tbody > tr .com-google-gerrit-client-change-ChangeScreen_BinderImpl_GenCss_style-relatedColumn {
 	float: left;
-	width: 28%;
+	width: 100%;
 	position: relative;
 }
 .com-google-gerrit-client-change-ChangeScreen_BinderImpl_GenCss_style-infoTable > tbody > tr .com-google-gerrit-client-change-ChangeScreen_BinderImpl_GenCss_style-relatedColumn .gwt-TabPanelBottom {
@@ -668,8 +668,8 @@ th.com-google-gerrit-client-change-FileTable-FileTableCss-deltaColumn2 {
 }
 .gwt-TabPanel.com-google-gerrit-client-change-RelatedChanges-RelatedChangesCss-tabPanel {
 	table-layout: fixed;
-	margin-left: -30px;
-	width: calc(100% + 60px);
+	margin-left: 0;
+	/* width: calc(100% + 60px); */
 }
 @media (min-width: 1600px) {
 		.gwt-TabPanel.com-google-gerrit-client-change-RelatedChanges-RelatedChangesCss-tabPanel {
