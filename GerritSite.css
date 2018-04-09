@@ -92,7 +92,7 @@ button {
 	left: auto;
 	margin: 0 auto;
 	box-sizing: border-box;
-	max-width: 1600px;
+	max-width: 1920px;
 	margin-top: 16px;
 }
 .gerritTopMenu .gwt-TabBar .gwt-TabBarItem {
@@ -232,7 +232,7 @@ button {
 /* Header */
 
 #gerrit_header {
-	max-width: 1600px;
+	max-width: 1920px;
 	margin: 0 auto;
 }
 #gerrit_header #diffy_logo {
@@ -246,7 +246,7 @@ button {
 
 .gerritBody {
 	font-size: 13px !important;
-	max-width: 1600px;
+	max-width: 1920px;
 	margin: 8px auto;
 }
 .gerritBody > div {
@@ -573,7 +573,7 @@ button {
 /* Footer */
 
 #gerrit_btmmenu {
-	max-width: 1600px;
+	max-width: 1920px;
 	margin: 20px auto 10px;
 	padding-right: 25px !important;
 	font-size: 12px;
